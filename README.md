@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/0xaydemir" target="blank"><img src="https://img.shields.io/twitter/follow/0xaydemir?logo=twitter&style=for-the-badge" alt="0xaydemir" /></a> </p>
 
+- 🔭 I’m currently working on smart contracts and dApps.
+
 - 💬 Ask me about **Node.js, JavaScript, Web3, Blockchain**
 
 - 📫 How to reach me **enescan_aydemir@hotmail.com**
